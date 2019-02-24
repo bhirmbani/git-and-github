@@ -1,8 +1,8 @@
 1. Buat branch baru di branch master dengan nama yang sudah ditentukan.(git checkout -b 'nama-branch')
 2. Ketik data yang ingin dikirimkan.
-2. Save lalu commit file yang ingin dikirim. (git commit -m 'nama-file')
-3. Check file dengan "git status" jika sudah dicommit maka gunakan "git push origin (nama-branch)"
-4. Masukkan username dan password github anda dan tunggu sampai selesai.
-5. Masuk ke laman Repositories dan klik create pull request
-6. masukkan judul request dan keterangan
-7. klik kirim lalu tunggu sampai dikomfirmasi dan di merge oleh master.
+3. Save lalu commit file yang ingin dikirim. (git commit -m 'nama-file')
+4. Check file dengan "git status" jika sudah dicommit maka gunakan "git push origin (nama-branch)"
+5. Masukkan username dan password github anda dan tunggu sampai selesai.
+6. Masuk ke laman Repositories dan klik create pull request
+7. masukkan judul request dan keterangan
+8. klik kirim lalu tunggu sampai dikomfirmasi dan di merge oleh master.
